@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- --port <port> --host <host>",
+    "working_directory": "/home/kavia/workspace/code-generation/flappy-bird-game-development-250509-250523/flappy_bird_frontend"
+}
